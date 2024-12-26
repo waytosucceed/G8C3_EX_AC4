@@ -1,0 +1,58 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which of the following numbers: 7700, 3080, 5005, 3003: has two pairs of twin primes as their factors?",
+    "options": [
+      "7700",
+      "3080",
+      "5005",
+      "3003"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "984x6y is a six-digit number, which is a multiple of 9, and x and y are non-zero digits. Find the minimum value of the product xy.",
+    "options": [
+      "14",
+      "8",
+      "6",
+      "18"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Alok wanted to type the first 200 natural numbers. How many times does he have to press the keys?",
+    "options": [
+      "400",
+      "365",
+      "492",
+      "489"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "If  m is prime, then n is a composite number  and m + n = 240 also their LCM is 4199. Find m and n.",
+    "options": [
+      "13, 227",
+      "17, 223",
+      "19, 221",
+      "23, 217"
+    ],
+    "correct": 2
+  },
+  
+  {
+    "questionNo": "Q5",
+    "question": "Three numbers p, q and r have the following properties:<br><ul style='text-align:left'><li>The HCF of p and q is 24.</li><li>The LCM of p and q is 144.</li><li>The LCM of q and r is 73.</li><li>The HCF of p and r is 12.</li></ul> <br>Which of the following statements is true about the relationship between p, q and r?",
+    "options": [
+      "p = 48, q = 96 and r = 72",
+      "p = 24, q = 72 and r = 48",
+      "p = 36, q = 72 and r = 96",
+      "p = 48, q = 72 and r = 36"
+    ],
+    "correct": 3
+  }
+]
